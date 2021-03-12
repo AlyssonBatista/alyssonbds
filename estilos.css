@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
  
-
+ 
 .alysson {
     width: 150px;
     height: 150px;
@@ -10,31 +10,36 @@ body {
 }
 
 .linkedin {
-    width: 35px;
-    height: 35px;
+    width: 60px;
+    height: 60px;
     padding: 8px;
+    border-radius: 50%;
 }
 
 .instagram {
-    width: 35px;
-    height: 35px;
+    width: 60px;
+    height: 60px;
     padding: 8px;
+    border-radius: 50%;
 }
 
 .github {
-    width: 35px;
-    height: 35px;
+    width: 60px;
+    height: 60px;
     padding: 8px;
+    border-radius: 50%;
 }
 
 .twitter {
-    width: 35px;
-    height: 35px;
+    width: 60px;
+    height: 60px;
     padding: 8px;
+    border-radius: 50%;
 }
 .whatsapp {
-    width: 35px;
-    height: 35px;
+    width: 60px;
+    height: 60px;
     padding: 8px;
+    border-radius: 50%;
 }
 
